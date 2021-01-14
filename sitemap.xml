@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -6,6 +7,16 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+>>>>>>> 91f4ea47489b2d5b6b5956f182e861bc34136b4a
 
 <url>
   <loc>https://alicepoirier.github.io/</loc>
@@ -21,7 +32,13 @@
   <loc>https://alicepoirier.github.io/publications.html</loc>
   <lastmod>2020-12-27T09:30:56+00:00</lastmod>
   <priority>0.80</priority>
+<<<<<<< HEAD
 </url>
 
 
+=======
+</url>
+
+
+>>>>>>> 91f4ea47489b2d5b6b5956f182e861bc34136b4a
 </urlset>
